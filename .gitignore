@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Google API credentials
+token.pickle
+credentials.json
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+
+.env
+
+input.wav
