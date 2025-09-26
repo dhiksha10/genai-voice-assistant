@@ -18,3 +18,5 @@ credentials.json
 .DS_Store
 
 .env
+
+input.wav
